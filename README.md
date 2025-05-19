@@ -1,9 +1,13 @@
-# Progetto-Open-Data-Management-2022-2023
+# RDF-Knowledge-Base-for-public-sanity-in-Sicily
 
-UNIPA - Corso di laurea triennale in Informatica (2086)
+Project done for the "Open Data Management" course at University of Palermo, Bachelor Degree in Computer Science.
+The goal is to build a 5-star RDF knowledge base representing public sanity in Sicily.
 
-Open Data Management A.A 2022/2023 - Prof. Davide Taibi
+Team: Andrea Spinelli, Raffaele Terracino, Marco Valenti
 
-Team: Andrea Spinelli, Marco Valenti, Raffaele Terracino
+Technical skills:
+- Python: Numpy, Pandas, Matplotlib, RDFLib
+- RDF
+- SPARQL
+- Knowledge graphs design
 
-Obiettivo: sviluppo di una base di conoscenza RDF sulla sanità siciliana
